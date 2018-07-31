@@ -1,4 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
+#do not upload notes to git
+notes.md
 
 # compiled output
 /dist
